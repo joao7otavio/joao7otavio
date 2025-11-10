@@ -26,49 +26,57 @@ Não me vejo trabalhando em outra área que não seja a que eu realmente amo: a 
 />
 <img 
     align="Left"
-    alt="HTML"
-    title="HTML"
+    alt="CSS"
+    title="CSS"
     width="70px"
     style="Padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"     
 />
 <img 
     align="Left"
-    alt="HTML"
-    title="HTML"
+    alt="JAVASCRPT"
+    title="JavaScript"
     width="70px"
     style="Padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="Left"
-    alt="HTML"
-    title="HTML"
+    alt="PYTHON"
+    title="Python"
     width="70px"
     style="Padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="Left"
-    alt="HTML"
-    title="HTML"
+    alt="JAVA"
+    title="Java"
     width="70px"
     style="Padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="Left"
-    alt="HTML"
-    title="HTML"
+    alt="GIT"
+    title="GIT"
     width="70px"
     style="Padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="Left"
-    alt="HTML"
-    title="HTML"
+    alt="MYSQL"
+    title="MySQL"
     width="70px"
     style="Padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
+<img 
+    align="Left"
+    alt="PHP"
+    title="PHP"
+    width="70px"
+    style="Padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+          
