@@ -1,16 +1,15 @@
 # 🧑🏻‍💻João Otávio 
 
-**`Analista de Dados`** **`Técnico em Mecânica`**
+**`Desenvolvedor FullStack`** 
 
 ## Sobre Mim
 
-Olá! Me chamo João Otávio, e sou de Recife-PE. Sou formado como Técnico em Mecânica Industrial pelo SENAI e atuei na área, adquirindo uma base excelente em lógica e precisão.
-
+Olá! Me chamo João Otávio, e sou de Recife-PE. Sou formado como Técnico em Mecânica Industrial pelo SENAI e atuei na área, adquirindo uma base excelente em lógica, precisão e resolução de problemas complexos.
 ### Minha Jornada:  ⚙️💻
 
-Hoje, sou estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU. Minha motivação é usar essa minha base técnica e analítica para construir soluções eficientes e otimizar processos no mundo industrial.
+Hoje, sou estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU. Minha motivação é usar essa minha base técnica e disciplina para **construir aplicações web** e **resolver problemas através do código**.
 
-Meu foco é aplicar o conhecimento em sistemas e programação para diagnóstico de problemas, análise de dados e gestão de fluxos de trabalho, visando aumentar a eficiência e confiabilidade de sistemas de manutenção. Busco iniciar minha carreira aplicando essa visão híbrida de chão de fábrica e sistemas."
+Meu foco atual é o **Desenvolvimento de Software**. Aplico meu conhecimento para criar **interfaces intuitivas (Front-End)** e **sistemas robustos (Back-End)**, visando sempre a melhor experiência para o usuário e a eficiência do código. Busco iniciar minha carreira como desenvolvedor, trazendo a visão analítica e a organização da minha bagagem anterior para o mundo da tecnologia.
 
 ## Linguagens e Tecnologias
 
